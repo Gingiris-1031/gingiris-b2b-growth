@@ -178,3 +178,14 @@ A: Partner quality > partner quantity. The playbook covers how HeyGen and Deel v
 ## License
 
 MIT — Use, adapt, and build on this freely.
+
+## 🔗 Related Gingiris Skills
+
+| Skill | Focus | Install |
+|-------|-------|---------|
+| [gingiris-kol-outreach](https://github.com/Gingiris-1031/gingiris-kol-outreach) | KOL & Influencer Marketing SOP | `clawhub install gingiris-kol-outreach` |
+| [gingiris-user-interview](https://github.com/Gingiris-1031/gingiris-user-interview) | User Interview & PMF Discovery | `clawhub install gingiris-user-interview` |
+| [gingiris-seo-geo](https://github.com/Gingiris-1031/gingiris-seo-geo) | SEO & GEO Dual-Engine Growth | `clawhub install gingiris-seo-geo` |
+| [gingiris-go-global](https://github.com/Gingiris-1031/gingiris-go-global) | Go-Global Expansion Strategy | `clawhub install gingiris-go-global` |
+
+> 📦 **Full collection:** [gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) — All playbooks in one bundle.
