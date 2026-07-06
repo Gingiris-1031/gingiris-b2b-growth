@@ -32,6 +32,16 @@ size_categories:
 
 **[English](#english) | [中文](#中文版) | [日本語](#日本語) | [한국어](#한국어)**
 
+> 📌 **Note: this repo is a distribution mirror.** The canonical version of the playbook is maintained in the monorepo at **[gingiris-skills/skills/gingiris-b2b-growth](https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/gingiris-b2b-growth)** — start there for the latest revision. Landing page: [gingiris.tools](https://gingiris.tools)
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-b2b-growth
+# or
+clawhub install gingiris-b2b-growth
+```
+
 ---
 
 ## English
@@ -153,10 +163,10 @@ A: Partner quality > partner quantity. The playbook covers how HeyGen and Deel v
 
 **Iris (生姜iris)** — Former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) ($10M raised, 60k+ GitHub stars). Forbes Asia 30 Under 30. Consulted 150+ AI startups across US, EU, and Asia on B2B growth strategy, PLG/SLG transitions, and international expansion (出海).
 
-- Website: [gingiris.com](https://gingiris.com)
+- Website: [gingiris.tools](https://gingiris.tools)
 - Twitter/X: [@WeiYipei](https://x.com/WeiYipei)
 - Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- Blog: [gingiris.github.io/growth-tools](https://gingiris.github.io/growth-tools/)
+- Blog: [gingiris.tools](https://gingiris.tools/)
 
 ---
 
