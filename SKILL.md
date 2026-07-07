@@ -10,7 +10,7 @@ description: |
   • Pricing & packaging strategy (value metric, tier design, willingness-to-pay)
   • Channel partnerships & affiliate marketing systems
 
-  Built from: Frameworks from HeyGen, Deel, Vercel, Supabase, AWS. Kuse: 60 days → $10M ARR.
+  Built from: Frameworks from HeyGen, Deel, Vercel, Supabase, AWS. Plus an anonymized client case: 60 days → $10M ARR (self-reported).
 
   Triggers: "B2B growth" | "PMF" | "product-market fit" | "PLG" | "SLG" | "affiliate marketing" | "channel partners" | "customer case study" | "B2B 增长" | "用户调研"
 ---
